@@ -1,0 +1,15 @@
+O:\Backups\GB\C#\Семинар 7\bin\Debug\net6.0\Семинар 7.exe
+O:\Backups\GB\C#\Семинар 7\bin\Debug\net6.0\Семинар 7.deps.json
+O:\Backups\GB\C#\Семинар 7\bin\Debug\net6.0\Семинар 7.runtimeconfig.json
+O:\Backups\GB\C#\Семинар 7\bin\Debug\net6.0\Семинар 7.dll
+O:\Backups\GB\C#\Семинар 7\bin\Debug\net6.0\Семинар 7.pdb
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.csproj.AssemblyReference.cache
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.GeneratedMSBuildEditorConfig.editorconfig
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.AssemblyInfoInputs.cache
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.AssemblyInfo.cs
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.csproj.CoreCompileInputs.cache
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.dll
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\refint\Семинар 7.dll
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.pdb
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\Семинар 7.genruntimeconfig.cache
+O:\Backups\GB\C#\Семинар 7\obj\Debug\net6.0\ref\Семинар 7.dll
